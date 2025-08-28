@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: brown;
+    font-size: 30PX ;
+    font-family: monospace;
+    text-align: center;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 120px;
+
+}
+p{
+    color: blue;
+    font-size: 20PX ;
+    font-family: courier ;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 150px;
+}
